@@ -1,4 +1,4 @@
-# ProcessMonitor
+# LxProcess
 A Shell script to identify if the input process is running on the system or not
 
 <em><strong> USAGE: </strong></em><br><br>
